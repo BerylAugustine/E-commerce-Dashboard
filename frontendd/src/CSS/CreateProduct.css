@@ -1,0 +1,13 @@
+.form-page{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    width: 35%;
+}
+h2{
+    padding: 20px;
+}
